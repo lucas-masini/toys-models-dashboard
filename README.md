@@ -132,19 +132,22 @@ Le dashboard permet notamment de :
 
 ---
 
-# 📁 Structure du projet
+## 📁 Structure du projet
+
+```
 toys-dashboard
 │
 ├── sql
-│ └── requetes_kpi.sql
+│   └── requetes_kpi.sql
 │
 ├── powerbi
-│ └── dashboard.pbix
+│   └── dashboard.pbix
 │
 ├── images
-│ └── dashboard_preview.png
+│   └── dashboard_preview.png
 │
 └── README.md
+```
 
 
 ---
