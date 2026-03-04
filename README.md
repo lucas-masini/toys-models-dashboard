@@ -135,7 +135,7 @@ Le dashboard permet notamment de :
 ## 📁 Structure du projet
 
 ```
-toys-dashboard
+toys-models-dashboard
 │
 ├── sql
 │   └── requetes_kpi.sql
@@ -152,6 +152,19 @@ toys-dashboard
 
 ---
 
+## 👥 Travail en équipe
+
+Ce projet a été réalisé en **travail de groupe** dans le cadre d’un exercice de data analyse.
+
+Chaque membre de l’équipe était responsable d’un domaine métier (ventes, finances, logistique ou ressources humaines) afin de calculer les KPI correspondants et les intégrer au dashboard.
+
+### 🎯 Ma contribution
+
+J’étais responsable de la partie **Ressources Humaines** et j’ai notamment travaillé sur :
+
+- l’écriture des **requêtes SQL** permettant de calculer les KPI RH  
+- la **modélisation des données** associée à ces indicateurs  
+- la création des **visualisations Power BI** pour la section RH du dashboard
 # 🚧 Difficultés rencontrées
 
 - Travail sur une **base transactionnelle nécessitant de nombreuses jointures**
