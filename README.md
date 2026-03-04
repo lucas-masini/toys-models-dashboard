@@ -132,19 +132,39 @@ Le dashboard permet notamment de :
 
 ---
 
+# 📊 Aperçu du dashboard
+
+Voici un aperçu des différentes pages du dashboard Power BI.
+
+## 👥 Ressources humaines
+![Dashboard RH](images/rh_dashboard.PNG)
+
+## 📈 Ventes
+![Dashboard ventes](images/ventes_dashboard.PNG)
+
+## 💰 Finances
+![Dashboard finances](images/finances_dashboard.PNG)
+
+## 📦 Logistique
+![Dashboard logistique](images/logistique_dashboard.PNG)
+
+---
+
 ## 📁 Structure du projet
 
 ```
 toys-models-dashboard
-│
-├── sql
-│   └── requetes_kpi.sql
+├── images
+│   └── rh_dashboard.PNG
+│   └── ventes_dashboard.PNG
+│   └── finances_dashboard.PNG
+│   └── logistique_dashboard.PNG
 │
 ├── powerbi
 │   └── dashboard.pbix
 │
-├── images
-│   └── dashboard_preview.png
+├── sql
+│   └── requetes_kpi.sql
 │
 └── README.md
 ```
